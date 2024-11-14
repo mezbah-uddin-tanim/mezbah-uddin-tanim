@@ -33,7 +33,9 @@ Skills: HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezbah-uddin-tanim&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah-uddin-tanim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah-uddin-tanim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mezbah-uddin-tanim&theme=dark)](https://git.io/streak-stats)
 

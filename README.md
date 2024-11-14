@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mezbah-uddin-tanim&style=flat-square)
 
-Skills: HTML / CSS
+
 
 - 🔭 I’m currently working on EassyPass 
 - 🌱 I’m currently learning Python 

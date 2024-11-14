@@ -35,5 +35,5 @@ Skills: HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah-uddin-tanim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mezbah-uddin-tanim)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mezbah-uddin-tanim&theme=dark)](https://git.io/streak-stats)
 

@@ -1,8 +1,8 @@
 ![A Passionate Coder From Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQGqVJzflh4ACA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731569240532?e=1736985600&v=beta&t=LwGAt5btSql-IB5jwF87XpueyFZtLnEKuwaiGl_mnxc)
 
 
-### Hi there 👋, This is Mezbah Uddin Tanim
-#### A Passionate Coder From Bangladesh
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+#### This is Mezbah Uddin Tanim. A Passionate Coder From Bangladesh
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ![](https://komarev.com/ghpvc/?username=mezbah-uddin-tanim&style=flat-square)

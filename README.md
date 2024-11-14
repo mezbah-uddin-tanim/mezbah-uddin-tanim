@@ -21,7 +21,7 @@ Skills: HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezbah-uddin-tanim&show_icons=true&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/mezbah-uddin-tanim)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah-uddin-tanim&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mezbah-uddin-tanim)  
 

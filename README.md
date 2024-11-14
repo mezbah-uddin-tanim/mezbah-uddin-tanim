@@ -5,7 +5,7 @@
 #### A Passionate Coder From Bangladesh
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![](https://komarev.com/ghpvc/?username=mezbah-uddin-tanim&style=flat-square)
 
 Skills: HTML / CSS
 
